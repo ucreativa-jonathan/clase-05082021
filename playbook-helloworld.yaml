@@ -1,0 +1,6 @@
+-
+  name: correr script
+  hosts: all
+  tasks:
+    - name: script
+      command: sh /home/jonathan/projects/05082021/bash.sh

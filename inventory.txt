@@ -1,0 +1,1 @@
+prueba ansible_host=40.78.137.119 ansible_ssh_pass=Movius114490688
